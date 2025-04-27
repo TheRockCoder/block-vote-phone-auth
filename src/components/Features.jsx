@@ -29,7 +29,7 @@ const Features = () => {
     {
       icon: Lock,
       title: 'End-to-End Encryption',
-      description: 'All data is encrypted from the moment you cast your vote until it's recorded on the blockchain.',
+      description: 'All data is encrypted from the moment you cast your vote until it\'s recorded on the blockchain.',
     },
     {
       icon: UserCheck,
